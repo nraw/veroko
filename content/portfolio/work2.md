@@ -5,6 +5,8 @@ draft = false
 image = "img/portfolio/istrian-goat.jpeg"
 showonlyimage = false
 weight = 1
+tags = ["animals", "nature"]
+series = ["istria"]
 +++
 
 The Istrian goat is culturally, maybe the most important animal of Istria. 

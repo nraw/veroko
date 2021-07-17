@@ -2,9 +2,10 @@
 image = "img/portfolio/boskarin.jpeg"
 showonlyimage = false
 date = "2016-11-05T19:44:32+05:30"
-title = "boskarin"
+title = "Boskarin"
 draft = false
 weight = 2
+series = ["istria"]
 +++
 
 Beautiful Istrian cattle, Boškarin.

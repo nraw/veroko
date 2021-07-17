@@ -5,6 +5,9 @@ image = "img/portfolio/ladybird.jpeg"
 title = "The Asian Ladybird"
 date = "2016-11-05T19:41:01+05:30"
 weight = 0
+tags = ["animals", "nature"]
+category = ["backgrounds"]
+series = ["ladybird"]
 +++
 
 The asian ladybird, my recent house pet 🐞
