@@ -52,6 +52,10 @@ googleAnalytics = "UA-109130746-5"
   home = true
 
   [[params.navlinks]]
+  name = "Categories"
+  url = "series/"
+
+  [[params.navlinks]]
   name = "About"
   url = "about/"
 
