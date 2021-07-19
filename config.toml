@@ -19,8 +19,9 @@ googleAnalytics = "UA-109130746-5"
   description = "My art stuff"
   copyright = "&copy;2021 Veronika Kovac"
   sidebarAbout = [
-    "I am a creative illustrator with more than 5 years of experience.",
-    "Originally from and currently residing in Croatia."
+    "Welcome!",
+    "My name is Veronika Kovač.",
+    "And I am an illustrator"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
