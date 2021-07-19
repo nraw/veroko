@@ -1,7 +1,7 @@
 +++
 draft = false
 image = "img/portfolio/snake.jpeg"
-showonlyimage = false
+showonlyimage = true
 date = "2016-11-05T20:02:19+05:30"
 title = "Snake"
 weight = 9
