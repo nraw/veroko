@@ -9,4 +9,4 @@ I am Vero!
 
 Hi!
 
-[1]: /img/about.jpeg
+[1]: /img/Veronika_Kovac.jpg
