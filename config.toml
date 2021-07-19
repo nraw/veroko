@@ -20,8 +20,8 @@ googleAnalytics = "UA-109130746-5"
   copyright = "&copy;2021 Veronika Kovac"
   sidebarAbout = [
     "Welcome!",
-    "My name is Veronika Kovač.",
-    "I am an illustrator based in Croatia."
+    "My name is Veronika Kovač. I am an illustrator based in Croatia."
+
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
