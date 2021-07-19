@@ -7,6 +7,5 @@ draft = false
 weight = 5
 +++
 
-#veroko_illustration #illustrations #illustration_best #illustration #drawing #dog #doggo #asleep #art #artistsoninstagram #pastel #fox #stickers 
 <!--more-->
 
