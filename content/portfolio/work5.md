@@ -1,6 +1,6 @@
 +++
 image = "img/portfolio/beans2.jpeg"
-showonlyimage = false
+showonlyimage = true
 draft = false
 date = "2016-11-05T19:53:42+05:30"
 title = "Beans and Hen"
