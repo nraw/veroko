@@ -3,7 +3,7 @@ date = "2021-07-19T19:41:01+05:30"
 title = "Reading Octopus"
 draft = false
 image = "img/portfolio/reading-octopus-dog.jpg"
-showonlyimage = false
+showonlyimage = true
 weight = 1
 tags = ["animals", "nature", "stickers"]
 +++
