@@ -1,4 +1,4 @@
-baseurl = "https://veroko.netlify.app"
+baseurl = "https://www.veroko.art"
 title = "Veroko Illustrations"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
